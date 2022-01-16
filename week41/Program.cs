@@ -7,6 +7,7 @@ namespace week41
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("This is triangle");
             Console.WriteLine("   /|");
             Console.WriteLine("  / |");
             Console.WriteLine(" /  |");
