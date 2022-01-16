@@ -8,6 +8,7 @@ namespace week41
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("This is triangle");
+            Console.WriteLine("testbranch");
             Console.WriteLine("   /|");
             Console.WriteLine("  / |");
             Console.WriteLine(" /  |");
