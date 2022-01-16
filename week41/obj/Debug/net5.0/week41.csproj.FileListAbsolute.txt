@@ -1,0 +1,16 @@
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.csproj.AssemblyReference.cache
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.AssemblyInfoInputs.cache
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.AssemblyInfo.cs
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.csproj.CoreCompileInputs.cache
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.exe
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.deps.json
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.runtimeconfig.json
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.runtimeconfig.dev.json
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.dll
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\ref\week41.dll
+C:\Users\isikharu\source\repos\week41\week41\bin\Debug\net5.0\week41.pdb
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.dll
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\ref\week41.dll
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.pdb
+C:\Users\isikharu\source\repos\week41\week41\obj\Debug\net5.0\week41.genruntimeconfig.cache
